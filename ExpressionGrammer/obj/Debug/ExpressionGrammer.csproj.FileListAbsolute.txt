@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2013\Projects\ExpressionLanguage\ExpressionGrammer\bin\Debug\ExpressionGrammer.dll
+c:\users\mohamed\documents\visual studio 2013\Projects\ExpressionLanguage\ExpressionGrammer\bin\Debug\ExpressionGrammer.pdb
+c:\users\mohamed\documents\visual studio 2013\Projects\ExpressionLanguage\ExpressionGrammer\obj\Debug\ExpressionGrammer.dll
+c:\users\mohamed\documents\visual studio 2013\Projects\ExpressionLanguage\ExpressionGrammer\obj\Debug\ExpressionGrammer.pdb
+c:\users\mohamed\documents\visual studio 2013\Projects\ExpressionLanguage\ExpressionGrammer\bin\Debug\Irony.dll
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionGrammer\obj\Debug\ExpressionGrammer.csprojResolveAssemblyReference.cache

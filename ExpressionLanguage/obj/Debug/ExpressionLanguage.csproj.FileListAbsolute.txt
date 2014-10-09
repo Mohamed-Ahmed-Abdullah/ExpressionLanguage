@@ -1,0 +1,32 @@
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.csprojResolveAssemblyReference.cache
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionLanguage\obj\Debug\MainWindow.baml
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionLanguage\obj\Debug\MainWindow.g.cs
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionLanguage\obj\Debug\App.g.cs
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage_MarkupCompile.cache
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.g.resources
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.Properties.Resources.resources
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.csproj.GenerateResource.Cache
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionLanguage\bin\Debug\ExpressionLanguage.exe.config
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionLanguage\bin\Debug\ExpressionLanguage.exe
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionLanguage\bin\Debug\ExpressionLanguage.pdb
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionLanguage\bin\Debug\ExpressionCompiler.dll
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionLanguage\bin\Debug\Irony.dll
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionLanguage\bin\Debug\ExpressionCompiler.pdb
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.exe
+C:\Users\mohamed\Documents\Visual Studio 2013\Projects\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.pdb
+C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\bin\Debug\ExpressionLanguage.exe.config
+C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.exe
+C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.pdb
+C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\bin\Debug\ExpressionLanguage.exe
+C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\bin\Debug\ExpressionLanguage.pdb
+C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\bin\Debug\ExpressionCompiler.dll
+C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\bin\Debug\Irony.dll
+C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\bin\Debug\ExpressionCompiler.pdb
+C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.csprojResolveAssemblyReference.cache
+C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\obj\Debug\MainWindow.baml
+C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\obj\Debug\MainWindow.g.cs
+C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\obj\Debug\App.g.cs
+C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage_MarkupCompile.cache
+C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.g.resources
+C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.Properties.Resources.resources
+C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.csproj.GenerateResource.Cache
