@@ -30,3 +30,6 @@ C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\Expres
 C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.g.resources
 C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.Properties.Resources.resources
 C:\Users\mohamed.abdullah\Downloads\APPs\ToWork\ToWork\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.csproj.GenerateResource.Cache
+C:\Users\mohamed\Documents\GitHub\ExpressionLanguage\ExpressionLanguage\ExpressionLanguage\bin\Debug\ExpressionLanguage.exe.config
+C:\Users\mohamed\Documents\GitHub\ExpressionLanguage\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.exe
+C:\Users\mohamed\Documents\GitHub\ExpressionLanguage\ExpressionLanguage\ExpressionLanguage\obj\Debug\ExpressionLanguage.pdb

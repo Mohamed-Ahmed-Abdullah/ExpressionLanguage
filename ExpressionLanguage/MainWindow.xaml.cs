@@ -11,6 +11,7 @@ namespace ExpressionLanguage
         {
             InitializeComponent();
 
+
             SourceCode.Text = 
 @"var xx;
 xx=2;
