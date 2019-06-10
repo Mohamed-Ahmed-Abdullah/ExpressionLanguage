@@ -10,3 +10,6 @@ This is basically a new visual programming language that enables you to write co
 Grammar
 * **Irony Tree**: Irony is giving a tree of your grammar
 * **Expression Tree**: We use the irony tree and convert it to expression tree The idea here is simple. First, we need to create a grammar for Irony to use it for generating the code tree, then use the UI getting the code, pass it irony, in the result we are going to have the Code tree, taking this tree and convert it to C# Expression tree and getting the final result from it.
+
+### Read more
+https://www.codeproject.com/Articles/817854/Expression-Script-inspired-from-MIT-Scratch
